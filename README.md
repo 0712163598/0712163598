@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Steve a programmer
 - 👀 I’m interested in coding/machine learning
-- 🌱 I’m currently learning c++,python
+- Best at python,javascript,c++ and website development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me WhatsApp-0712163598,
-IG-flirty_gustavo,twitter-flirty_gustavo.
+IG-(kijana_ya_fx_official),twitter-(LEXUS)
 
 <!---
 0712163598/0712163598 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
